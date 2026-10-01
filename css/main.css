@@ -43,6 +43,17 @@ img {
   width: 100%;
 }
 
+/* Header styling */
+.site-header {
+  background-color: #17202a;
+  color: #ffffff;
+  padding: 2rem;
+}
+
+.site-header h1 {
+  margin-bottom: 1.5rem;
+}
+
 .main-nav ul {
   list-style: none;
   display: flex;
